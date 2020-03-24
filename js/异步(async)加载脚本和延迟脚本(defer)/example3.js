@@ -1,0 +1,1 @@
+console.log('defer script example3.js')

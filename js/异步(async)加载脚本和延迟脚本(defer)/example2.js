@@ -1,0 +1,1 @@
+console.log('async script example2.js')
